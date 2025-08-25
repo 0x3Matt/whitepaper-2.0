@@ -1,0 +1,115 @@
+{
+  "title": "Ubuntu Tribe - The Opportunity Economy",
+  "description": "World's First Regenerative Gold Economy | GIFT Token 1:1 Gold Backing",
+  "version": "2.0.0",
+  "sections": [
+    {
+      "title": "Getting Started",
+      "icon": "play-circle",
+      "children": [
+        {
+          "title": "Welcome to UTribe",
+          "path": "introduction",
+          "icon": "home",
+          "description": "The Opportunity Economy powered by 1:1 gold-backed GIFT tokens"
+        },
+        {
+          "title": "Quick Start Guide",
+          "path": "quick-start",
+          "icon": "zap",
+          "description": "Start your journey to financial freedom in 3 simple steps"
+        },
+        {
+          "title": "Core Philosophy",
+          "path": "core-concepts",
+          "icon": "lightbulb",
+          "description": "Ubuntu: I am because we are - Building regenerative wealth together"
+        }
+      ]
+    },
+    {
+      "title": "Whitepaper",
+      "icon": "file-text",
+      "children": [
+        {
+          "title": "Executive Summary",
+          "path": "whitepaper/executive-summary",
+          "icon": "target",
+          "description": "The revolutionary GIFT token ecosystem transforming global finance"
+        },
+        {
+          "title": "The Global Crisis",
+          "path": "whitepaper/problem-statement",
+          "icon": "alert-triangle",
+          "description": "1.4B unbanked, mercury pollution, and the failure of traditional finance"
+        },
+        {
+          "title": "Our Solution",
+          "path": "whitepaper/solution-overview",
+          "icon": "star",
+          "description": "Regenerative gold economy creating real-world impact"
+        },
+        {
+          "title": "Technical Foundation",
+          "path": "whitepaper/technical-architecture",
+          "icon": "cpu",
+          "description": "Multi-chain RWA infrastructure with enterprise security"
+        },
+        {
+          "title": "GIFT Economics",
+          "path": "whitepaper/tokenomics",
+          "icon": "dollar-sign",
+          "description": "1:1 gold backing with 8-15% AI-powered staking rewards"
+        },
+        {
+          "title": "Ubuntu DAO",
+          "path": "whitepaper/governance-model",
+          "icon": "users",
+          "description": "Community-driven governance empowering mining communities"
+        },
+        {
+          "title": "Journey Ahead",
+          "path": "whitepaper/roadmap",
+          "icon": "map",
+          "description": "From $500M gold supply to global regenerative impact"
+        },
+        {
+          "title": "Our People",
+          "path": "whitepaper/team-advisors",
+          "icon": "user-check",
+          "description": "60% women leadership driving change in mining communities"
+        }
+      ]
+    },
+    {
+      "title": "Impact & Community",
+      "icon": "heart",
+      "children": [
+        {
+          "title": "Join the Movement",
+          "path": "community/contributing",
+          "icon": "handshake",
+          "description": "Help us serve 1.4B unbanked people worldwide"
+        },
+        {
+          "title": "Ubuntu Values",
+          "path": "community/code-of-conduct",
+          "icon": "shield",
+          "description": "Our commitment to ethical mining and community empowerment"
+        },
+        {
+          "title": "Get Support",
+          "path": "community/support",
+          "icon": "message-circle",
+          "description": "Connect with our global community of changemakers"
+        },
+        {
+          "title": "Common Questions",
+          "path": "community/faq",
+          "icon": "help-circle",
+          "description": "Everything you need to know about GIFT tokens and gold backing"
+        }
+      ]
+    }
+  ]
+}
